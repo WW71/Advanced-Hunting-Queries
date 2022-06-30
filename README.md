@@ -1,4 +1,4 @@
-# Advanced Hunting Queries for Dummies
+# Advanced Hunting Queries for Dummies Cheat Sheet
 
 ## Operators
 
