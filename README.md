@@ -3,4 +3,7 @@
 ## Operators
 
 ### | where
-Filters a table to reveal lines of data that contain certain conditions
+Filters a table to reveal rows of data that contain certain conditions.
+e.g. 
+```| where [column] = [data]
+| where Country = US```
